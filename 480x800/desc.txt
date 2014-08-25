@@ -1,0 +1,5 @@
+480 800 10
+p 1 0 part0
+p 5 0 part1
+p 1 0 part2
+p 0 0 part3
